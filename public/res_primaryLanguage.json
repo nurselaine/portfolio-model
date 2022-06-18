@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Ursula Lopez. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "Hi - My name is Elaine. I’m an aspiring software engineer hoping to become a full-stack developer with a background in web technologies. Currently, I am proficient in Javascript, utilizing frameworks such as React for front-end development. I’m looking to strengthen my knowledge in my upcoming courses and gain experience building back-end applications. ",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,18 +11,18 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "To Do List",
+        "startDate": "2022",
+        "description": "Building a to do list application using React, I created a productivity tool for users to create, edit, and delete tasks. Users can filter through tasks created and cross off completed tasks.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
+          "images/portfolio/animal-shelter/todo-list.png",
           "images/portfolio/animal-shelter/p2.jpg"
         ],
-        "url": "",
+        "url": "https://github.com/nurselaine/My-Todo-List",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "name": "React"
           },
           {
             "class": "devicon-typescript-plain",
@@ -35,11 +35,11 @@
         ]
       },
       {
-        "title": "Photography",
+        "title": "Egg Timer",
         "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "description": "My First application built using vanilla JavaScript, HTML, and CSS. I created an egg timer for users to cook eggs. This application features egg specifications to select (size, temperature, cook type) to calculate the ideal boil time.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
+          "images/portfolio/photography/egg-timer.png",
           "images/portfolio/photography/p2.jpg"
         ],
         "url": "https://github.com",
@@ -55,63 +55,61 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Flash Flip",
+        "startDate": "2022",
+        "description": "Built using vanilla JavaScript, HTML5, and CSS3. My team and I created a flash card app modeled after Quizlet. Creating features for users to create a deck of flashcards and quiz themselves using an interactive flashcard.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/adventure/flashflip.png",
+          "images/portfolio/adventure/flashflip2.png"
         ],
         "url": "https://github.com",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "name": "JavaScript"
           },
           {
             "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "name": "CSS3"
           },
           {
             "class": "devicon-csharp-plain",
-            "name": "C#"
+            "name": "HTML5"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Code Fellows",
+        "title": "JavaScript FullStack Developer",
+        "years": "05.2022 - present",
         "mainTech": [
           "Angular 8/9/10"
         ],
         "technologies": [
           "REST API",
-          "RxJS",
+          "Node.js",
           "JavaScript",
           "Bootstrap",
           "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Express JS",
+          "React-Native",
+          "SCSS",
+          "MongoDB"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "St Francis Hospital",
+        "title": "Critical Care Registered Nurse",
+        "years": "06.2021 - Present",
         "mainTech": [
           "Angular 7/8"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "EPIC",
+          "Cerner",
+          "Orca"
         ]
       }
     ]

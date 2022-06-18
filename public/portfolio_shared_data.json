@@ -1,11 +1,11 @@
 {
     "basic_info": {
-      "name": "Ursula Lopez",
+      "name": "Elaine Huynh",
       "titles": [ "Software Developer" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/nurselaine",
           "class": "fab fa-github"
         },
         {
@@ -14,7 +14,7 @@
           "class": "fab fa-instagram"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "about-us-elaine.jpeg"
     },
     "skills": {
       "icons": [
